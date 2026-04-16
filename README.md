@@ -19,4 +19,5 @@ Este projeto apresenta uma análise detalhada dos preços dos combustíveis auto
 
  ## 🖼️ Visualização do Dashboard
 
-(AnálisedeCombustíveis.png)
+(Análise%20de%20Combustíveis.png)
+
